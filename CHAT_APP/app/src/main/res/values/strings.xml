@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CHATBOT</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register" />
+    <string name="logout">logout</string>
+    <string name="item">Profile</string>
+    <string name="item2">Logout</string>
+    <string name="item3">Developer</string>
+</resources>
